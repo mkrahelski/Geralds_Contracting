@@ -1,4 +1,4 @@
-### Gerald's Calculator
+# Gerald's Calculator
 
 -----
 
